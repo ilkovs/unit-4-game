@@ -1,3 +1,31 @@
 body {
     background-image: url("../images/background.png");
 }
+
+h1 {
+    background-color: orangered;
+}
+
+#text {
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
+
+#diamond2 {
+    background-color: white;
+}
+
+#diamond4 {
+    background-color: white;
+}
+
+#total {
+    margin-top: 40px;
+}
