@@ -43,11 +43,13 @@ h1 span {
     margin: 40px 0 0 20px;
     padding: 0px;
     background-color: aqua;
+    color: green;
 }
 
 #score {
     margin: 20px 0 0 20px;
     background-color: aqua;
     padding:0 0 30px;
+    color: green;
 }
 
