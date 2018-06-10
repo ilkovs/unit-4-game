@@ -3,20 +3,33 @@ body {
 }
 
 h1 {
+    text-align: left;
+    color: white !important;
+}
+
+h1 span {
     background-color: orangered;
 }
 
 #text {
     background-color: blanchedalmond;
+    margin-left: 12px;
+    padding: 0px;
+    color: green;
+    font-weight: bold;
 }
 
+#target {
+    background-color: green;
+    margin: 0 25px 0 10px;
+    padding: 0 0 70px 0;
+    font-weight: bold;
+}
 
-
-
-
-
-
-
+#winLoss {
+    background-color: aquamarine;
+    padding: 10px 0 10px 0;
+}
 
 #diamond2 {
     background-color: white;
@@ -27,5 +40,14 @@ h1 {
 }
 
 #total {
-    margin-top: 40px;
+    margin: 40px 0 0 20px;
+    padding: 0px;
+    background-color: aqua;
 }
+
+#score {
+    margin: 20px 0 0 20px;
+    background-color: aqua;
+    padding:0 0 30px;
+}
+
